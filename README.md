@@ -2,15 +2,19 @@
 
 ## 구현 기능 목록 템플리
     # 구현 기능 목록
+        -[ ] xxx
         
     ## 기능 목록
-
+        -[ ] xxx
+        
     ## 입력 
-
-    ##출력
-
-    ##에외
-
+        -[ ] xxx
+        
+    ## 출력
+        -[ ] xxx
+        
+    ## 예외
+        -[ ] xxx
 ## Controller
     private final InputView inputView;
     private final OutputView outputView;
