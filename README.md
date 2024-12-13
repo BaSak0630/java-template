@@ -28,6 +28,8 @@
 
 ## View
 ### InputView
+    import camp.nextstep.edu.missionutils.*;
+
     public class InputView {
         public String readLine() {
             String readLine = Console.readLine();
